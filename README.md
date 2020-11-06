@@ -1,3 +1,6 @@
+[![MELPA](https://melpa.org/packages/ac-helm-badge.svg)](https://melpa.org/#/ac-helm)
+[![MELPA Stable](https://stable.melpa.org/packages/ac-helm-badge.svg)](https://stable.melpa.org/#/ac-helm)
+
 # ac-helm.el
 
 Helm interface for [auto-complete]. A [ac-anything.el][ac-anything] fork ported to Helm.
